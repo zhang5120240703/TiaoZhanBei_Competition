@@ -19,3 +19,15 @@ git remote add origin https://github.com/zhang5120240703/TiaoZhanBei_Competition
 4. 同步（Sync）
 含义：VS 的快捷操作，通常等价于 “拉取（Pull） + 推送（Push）”（先拉取远程更新，再推送本地提交）。
 场景：快速完成本地与远程的双向同步（需确保本地无冲突）。
+
+
+然后在提交时记得完整详细的写好此次改动的内容，记得加上前缀，比如fix:修复xxxxbug，常用的前缀有：
+feat:	新增功能（feature）	feat: 新增用户登录模块
+fix:	修复 bug	fix: 解决订单支付失败问题
+docs:	文档修改（仅文档）	docs: 更新API接口说明
+style:	代码格式调整（不影响逻辑）	style: 统一代码缩进
+refactor:	代码重构（不增功能 / 修 bug）	refactor: 优化订单处理逻辑
+test:	新增 / 修改测试代码	test: 补充用户模块单元测试
+chore:	构建 / 工具 / 依赖等配置修改	chore: 升级npm依赖包
+perf:	性能优化	perf: 优化列表渲染速度
+revert:	回滚之前的提交	revert: 撤销feat: 新增登录模块
