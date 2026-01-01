@@ -34,11 +34,11 @@ git remote add origin https://github.com/zhang5120240703/TiaoZhanBei_Competition
 
 
 接下来是文件的详情(在每次提交完成后记得在对应的地方补充，记得在每次换行前加两个空格！！)   
-Script：  
-  UI：  
-    1.UIClick:是ui的点击交互功能的实现  
-    2.UILookAt：使充电桩图标一直朝向UI，每个充电桩图标都带有这个东西  
+####Script：  
+  ###UI：  
+    ’  ’1.UIClick:是ui的点击交互功能的实现  
+    ’  ’2.UILookAt：使充电桩图标一直朝向UI，每个充电桩图标都带有这个东西  
 
-Art：  
-  Prefeb：  
-    1.Charger：Charger的图标  
+####Art：  
+  ###Prefeb：  
+    ’  ’1.Charger：Charger的图标  
