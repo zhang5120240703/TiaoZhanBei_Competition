@@ -31,3 +31,14 @@ git remote add origin https://github.com/zhang5120240703/TiaoZhanBei_Competition
 7. chore:	构建 / 工具 / 依赖等配置修改	chore: 升级npm依赖包
 8. perf:	性能优化	perf: 优化列表渲染速度
 9. revert:	回滚之前的提交	revert: 撤销feat: 新增登录模块
+
+
+接下来是文件的详情(在每次提交完成后记得在对应的地方补充)
+Script：
+  UI：
+    1.UIClick:是ui的点击交互功能的实现
+    2.UILookAt：使充电桩图标一直朝向UI，每个充电桩图标都带有这个东西
+
+Art：
+  Prefeb：
+    1.Charger：Charger的图标
